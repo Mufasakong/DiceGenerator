@@ -1,8 +1,5 @@
-//Brug af "%", også kaldet modulo operator ( rest af heltalsdivisionen )
-//Opgave:
-//Kan du lave om på programmet så du kan tegne firkanter over hele vinduet, vha. modulo operatoren?
   int tal = 0;
-    int x = 10;
+  int x = 10;
   int y = 0;
 
 void setup() {
